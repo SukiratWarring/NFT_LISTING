@@ -1,0 +1,18 @@
+{
+    "Name":"Crypto Art 1",
+    "description":"Crypto Art",
+    "image":"https://ipfs.io/ipfs/QmaYkDSePqsvNeg3bLtnDizs2f7XsYof4rC91i9Wd5dyVD",
+    "attributes":[{
+        "trait_type":"DARKSTAR",
+        "value":2
+    },
+    {
+        "trait_type":"background",
+        "value":"PurplecumBlack"
+    },
+    {
+        "trait_type":"Majorcolor",
+        "value":"pinkcumpurple"
+    }
+    ]
+}

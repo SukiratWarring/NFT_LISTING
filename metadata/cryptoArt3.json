@@ -1,0 +1,18 @@
+{
+    "Name":"Crypto Art 1",
+    "description":"Crypto Art",
+    "image":"https://ipfs.io/ipfs/QmNjcV4uLmg6L4hEvtzJcc1Hx3paCjX13yoni698WM56YP",
+    "attributes":[{
+        "trait_type":"SUBTLEART",
+        "value":1
+    },
+    {
+        "trait_type":"background",
+        "value":"grey"
+    },
+    {
+        "trait_type":"Majorcolor",
+        "value":"orange"
+    }
+    ]
+}
